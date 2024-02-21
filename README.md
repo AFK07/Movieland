@@ -8,5 +8,5 @@ The search bar is the initial feature of the GUI. The user can view the movie po
 
 # Getting Started
 
-Node.js and npm should be installed.
+Node.js and npm should be installed. The rest (search.svg for the search icon and API key are provided). API key received through https://omdbapi.com/apikey.aspx where you can generate keys at ease.
 
